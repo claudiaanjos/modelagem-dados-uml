@@ -19,8 +19,7 @@ Ao final do curso, para mostrar como tudo que foi ensinado possui aplicação pr
 O curso vai agregar valiosos conhecimentos sobre modelagem de domínio em nível de análise, e também te elevará a um grau de compreensão superior sobre esta importante disciplina. Não perca mais tempo: comece já este curso.
 
 
-&nbsp;
-
+#
 
 <div>
   <p align="left">
