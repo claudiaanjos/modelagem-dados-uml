@@ -1,5 +1,9 @@
 # Modelagem de Dados UML - Análise e Projeto Orientado a Objetos
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
+
 ### 📚  Descrição
 
 Repositório com materiais do curso [Modelagem de Dados UML - Análise e Projeto Orientado a Objetos](https://www.udemy.com/course/uml-diagrama-de-classes/) do Professor Nélio Alves. 
